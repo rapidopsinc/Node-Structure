@@ -1,0 +1,12 @@
+{
+  "actionTypes": {
+    "Email": "email",
+    "PreviewInvoice": "preview",
+    "DownloadPDF": "downloadpdf"
+  },
+  "InvoiceTemplatePath": "/uploads/invoice.ejs",
+  "paymentStatus": {
+    "SUCCESS": "success",
+    "FAIL": "fail"
+  }
+}
